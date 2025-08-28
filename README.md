@@ -46,7 +46,6 @@
     <table>
       <tr><th>Năm</th><th>Mô tả</th></tr>
       <tr><td>2024</td><td>Đỗ ngành CNTT UDU</td></tr>
-      <tr><td>2023</td><td>Đạt học sinh giỏi tỉnh</td></tr>
     </table>
 
   </div>
